@@ -1,10 +1,8 @@
 # Hi there, I'm Murtaza Tinwala 👋
 
-<img src="https://media.licdn.com/dms/image/D4D03AQHZ21g-706HVQ/profile-displayphoto-shrink_800_800/0/1682157265636?e=1723680000&v=beta&t=7XqZesIEbkMhCqsNdD54dWBd4bq1Z73Vikbag34Kzpk" alt="Profile Picture" width="200" height="200" style="border-radius:50%"/>
-
 ## About Me
 
-Hey everyone! I'm **Murtaza Tinwala**, an IT student deeply immersed in the world of technology, always eager to learn and grow. With a knack for picking up new skills quickly, I'm equally passionate about passing on my knowledge to others. Development, CS fundamentals, and the realm of AI hold a special place in my heart. Let's connect and dive into the endless possibilities that technology has to offer! 🌟
+Hello , I'm **Murtaza Tinwala**, an IT student deeply immersed in the world of technology, always eager to learn and grow. With a knack for picking up new skills quickly, I'm equally passionate about passing on my knowledge to others. Development, CS fundamentals, and the realm of AI hold a special place in my heart. Let's connect and dive into the endless possibilities that technology has to offer! 🌟
 
 - 🔭 I’m currently working on Client Projects
 - 🌱 I’m currently learning **Flutter, Dart, and AI**
